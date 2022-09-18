@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": "Samin",
+            "password": "asd",
+            "score": "30"
+        },
+        {
+            "id": "happy moon",
+            "password": "bishoore khudam",
+            "score": "16"
+        },
+        {
+            "id": "Sarammad",
+            "password": "qwe",
+            "score": "60"
+        },
+        {
+            "id": "Samrad",
+            "password": "Shahbazi",
+            "score": "11"
+        },
+        {
+            "id": "Melanie",
+            "password": "zaq",
+            "score": "16"
+        },
+        {
+            "id": "Violet",
+            "password": "123",
+            "score": "23"
+        },
+        {
+            "id": "Yuta",
+            "password": "infj",
+            "score": "30"
+        },
+        {
+            "id": "Aaravos",
+            "password": "gholnaferest",
+            "score": "54"
+        },
+        {
+            "id": "Gojo",
+            "password": "gholbeferest",
+            "score": "32"
+        },
+        {
+            "id": "Jinx",
+            "password": "powder",
+            "score": "18"
+        },
+        {
+            "id": "samni",
+            "password": "sdf",
+            "score": "1"
+        },
+        {
+            "id": "deer",
+            "password": "google",
+            "score": "2"
+        }
+    ]
+}
